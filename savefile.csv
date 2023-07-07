@@ -1,29 +1,29 @@
 ,charID,charName,nine,ten,eleven,twelve,thirteen,TW,SJA,imagePath,fuckCount,marryCount,killCount
 0,0,9th Doctor,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized\9th_doctor.jpg,0,0,0
-1,1,Rose Tyler,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/rose_tyler.jpg,0,1,0
+1,1,Rose Tyler,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/rose_tyler.jpg,0,0,0
 2,2,Jackie Tyler,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/jackie_tyler.jpg,0,0,0
 3,3,Mickey Smith,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/mickey_smith.jpg,0,0,0
 4,4,Jack Harkness,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,images_resized/captain_jack_harkness.jpg,0,0,0
 5,5,Adam (Series 1),TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/adam_mitchel.jpg,0,0,0
 6,6,Henry Van Statten,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/henry_van_statten.jpg,0,0,0
-7,7,Cassandra,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/cassandra.jpg,0,0,1
-8,8,Harriet Jones,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/harriet_jones.jpg,1,0,0
+7,7,Cassandra,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/cassandra.jpg,0,0,0
+8,8,Harriet Jones,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/harriet_jones.jpg,0,0,0
 9,9,Face of Boe,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/face_of_boe.jpg,0,0,0
 10,10,Bad Wolf,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/bad_wolf.jpg,0,0,0
 11,11,10th Doctor,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized\enth_doctor.jpg,0,0,0
-12,12,Sarah Jane Smith,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,images_resized/sarah_jane_smith.jpg,0,1,0
+12,12,Sarah Jane Smith,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,images_resized/sarah_jane_smith.jpg,0,0,0
 13,13,Madame de Pompadour,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/madame_de_pompadour.jpg,0,0,0
 14,14,Ursula Slab,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/ursula_slab.jpg,0,0,0
-15,15,Martha Jones,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/martha_jones.jpg,1,0,0
-16,16,Tish Jones,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/tish_jones.jpg,1,0,0
-17,17,Judoon,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,images_resized/judoon.jpg,1,0,0
+15,15,Martha Jones,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/martha_jones.jpg,0,0,0
+16,16,Tish Jones,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/tish_jones.jpg,0,0,0
+17,17,Judoon,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,images_resized/judoon.jpg,0,0,0
 18,18,Dalek Sec,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/dalek_sec.jpg,0,0,0
-19,19,Joan Redfern,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/joan_redfern.jpg,0,1,0
+19,19,Joan Redfern,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/joan_redfern.jpg,0,0,0
 20,20,John Smith,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/john_smith.jpg,0,0,0
 21,21,Chantho,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/chantho.jpg,0,0,0
-22,22,Professor Yana,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/professor_yana.jpg,1,0,0
+22,22,Professor Yana,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/professor_yana.jpg,0,0,0
 23,23,Jacobi Master,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/jacobi_master.jpg,0,0,0
-24,24,Saxon Master,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/saxon_master.jpg,1,0,0
+24,24,Saxon Master,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/saxon_master.jpg,0,0,0
 25,25,Lucy Saxon,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/lucy_saxon.jpg,0,0,0
 26,26,Old Lazarus,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/lazarus_old.jpg,0,0,0
 27,27,Young Lazarus,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/lazarus_young.jpg,0,0,0
@@ -53,46 +53,46 @@
 51,51,Malokeh,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/malokeh.jpg,0,0,0
 52,52,Vincent Van Gogh,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/vincent_van_gogh.jpg,0,0,0
 53,53,Craig Owens,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/craig_owens.jpg,0,0,0
-54,54,Sophie Owens,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/sophie_owens.jpg,0,1,0
+54,54,Sophie Owens,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/sophie_owens.jpg,0,0,0
 55,55,Dorium Maldovar,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/dorium_maldovar.jpg,0,0,0
 56,56,Madame Kovarian,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/madame_kovarian.jpg,0,0,0
-57,57,Canton Everett Delaware III,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/canton.jpg,1,0,0
+57,57,Canton Everett Delaware III,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/canton.jpg,0,0,0
 58,58,Silent,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/silent.jpg,0,0,0
 59,59,Madame Vastra,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,images_resized/madame_vastra.jpg,0,0,0
 60,60,Jenny Flint,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,images_resized/jenny_flint.jpg,0,0,0
 61,61,Strax,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,images_resized/strax.jpg,0,0,0
-62,62,Young Kazran,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/kazran_young.jpg,1,0,0
+62,62,Young Kazran,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/kazran_young.jpg,0,0,0
 63,63,Old Kazran,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/kazran_old.jpg,0,0,0
 64,64,Idris (TARDIS),FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/idris_tardis.jpg,0,0,0
 65,65,Minotaur,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/minotaur.jpg,0,0,0
-66,66,Clara Oswald,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,images_resized/clara_oswald.jpg,1,0,0
+66,66,Clara Oswald,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,images_resized/clara_oswald.jpg,0,0,0
 67,67,Madge Arwell,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/madge_arwell.jpg,0,0,0
-68,68,Brian Williams,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/brian_williams.jpg,0,1,0
+68,68,Brian Williams,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/brian_williams.jpg,0,0,0
 69,69,Kate Stewart,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,images_resized/kate_stewart.jpg,0,0,0
 70,70,Great Intelligence,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/great_intelligence.jpg,0,0,0
 71,71,War Doctor,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/war_doctor.jpg,0,0,0
 72,72,The Moment,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/moment.jpg,0,0,0
-73,73,Solomon,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/solomon.jpg,0,0,1
+73,73,Solomon,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/solomon.jpg,0,0,0
 74,74,Kahler-Tek,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/gunslinger.jpg,0,0,0
 75,75,Kahler-Jex,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/kahler_jex.jpg,0,0,0
 76,76,Shakri,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/shakri.jpg,0,0,0
 77,77,Mummy/Grandfather,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/mummy_grandfather.jpg,0,0,0
 78,78,Skaldak,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/skaldak.jpg,0,0,0
-79,79,Queen Elizabeth I,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/queen_elizabeth.jpg,0,0,1
+79,79,Queen Elizabeth I,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/queen_elizabeth.jpg,0,0,0
 80,80,Osgood,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,images_resized/osgood.jpg,0,0,0
 81,81,Zygon,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,images_resized/zygon.jpg,0,0,0
-82,82,Androgar,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/androgar.jpg,0,1,0
+82,82,Androgar,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/androgar.jpg,0,0,0
 83,83,The General,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,images_resized/general.jpg,0,0,0
 84,84,Tasha Lem,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,images_resized/tasha_lem.jpg,0,0,0
 85,85,Danny Pink,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/danny_pink.jpg,0,0,0
 86,86,Missy,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/missy.jpg,0,0,0
-87,87,Rigsy,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/rigsy.jpg,0,1,0
-88,88,Ashildr,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/ashildr.jpg,0,1,0
-89,89,Half-Face Man,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/half_face.jpg,0,0,1
+87,87,Rigsy,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/rigsy.jpg,0,0,0
+88,88,Ashildr,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/ashildr.jpg,0,0,0
+89,89,Half-Face Man,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/half_face.jpg,0,0,0
 90,90,Robin Hood,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/robin_hood.jpg,0,0,0
 91,91,Ms. Delphox,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/delphox.jpg,0,0,0
 92,92,Psi,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/psi.jpg,0,0,0
-93,93,Saibra,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/saibra.jpg,0,1,0
+93,93,Saibra,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/saibra.jpg,0,0,0
 94,94,Mummy,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/mummy.jpg,0,0,0
 95,95,Ohila,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,images_resized/ohila.jpg,0,0,0
 96,96,Nardole,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/nardole.jpg,0,0,0
@@ -100,7 +100,7 @@
 98,98,Davros,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/davros.jpg,0,0,0
 99,99,Sam Swift,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/sam_swift.jpg,0,0,0
 100,100,Sandman,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/sandman.jpg,0,0,0
-101,101,The Veil,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/the_veil.jpg,0,0,1
+101,101,The Veil,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/the_veil.jpg,0,0,0
 102,102,Rassilon (Hell Bent),FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/rassilon_old.jpg,0,0,0
 103,103,Hydroflax,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/hydroflax.jpg,0,0,0
 104,104,Bill Potts,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized/bill_potts.jpg,0,0,0
@@ -123,25 +123,25 @@
 121,121,Kira Arlo,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/kira_arlo.jpg,0,0,0
 122,122,Charlie Duffy,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/charlie_duffy.jpg,0,0,0
 123,123,King James,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/king_james.jpg,0,0,0
-124,124,Becka Savage,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/becka_savage.jpg,0,1,1
+124,124,Becka Savage,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/becka_savage.jpg,0,0,0
 125,125,Passenger,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/passenger.jpg,0,0,0
-126,126,Solitract,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/solitract.jpg,0,0,1
+126,126,Solitract,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/solitract.jpg,0,0,0
 127,127,Spy Master,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/spy_master.jpg,0,0,0
 128,128,Kasaavin,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/kasaavin.jpg,0,0,0
-129,129,Ada Lovelace,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/ada_lovelace.jpg,1,0,0
+129,129,Ada Lovelace,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/ada_lovelace.jpg,0,0,0
 130,130,Hyph3n,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/hyph3n.jpg,0,0,0
-131,131,Benni,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/benni.jpg,0,1,0
-132,132,Bella,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/bella.jpg,0,0,1
+131,131,Benni,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/benni.jpg,0,0,0
+132,132,Bella,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/bella.jpg,0,0,0
 133,133,Lee Clayton,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/lee_clayton.jpg,0,0,0
 134,134,Fugitive Doctor,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized\gitive_doctor.jpg,0,0,0
 135,135,Ko Sharmus,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/ko_sharmus.jpg,0,0,0
 136,136,Ashad,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/ashad.jpg,0,0,0
 137,137,Tecteun,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/tecteun.jpg,0,0,0
-138,138,Daniel Barton,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/daniel_barton.jpg,0,1,0
+138,138,Daniel Barton,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/daniel_barton.jpg,0,0,0
 139,139,Jack Robertson,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/jack_robertson.jpg,0,0,0
 140,140,Dan Lewis,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/dan_lewis.jpg,0,0,0
 141,141,Karvanista,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/karvanista.jpg,0,0,0
-142,142,Swarm,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/swarm.jpg,0,0,1
+142,142,Swarm,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/swarm.jpg,0,0,0
 143,143,Azure,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/azure.jpg,0,0,0
 144,144,Inston-Vee Vinder,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/inston_vee_vinder.jpg,0,0,0
 145,145,Bel,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/bel.jpg,0,0,0
@@ -149,21 +149,21 @@
 147,147,Weeping Angel,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/weeping_angel.jpg,0,0,0
 148,148,Skaak,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/skaak.jpg,0,0,0
 149,149,Brigadier,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/brigadier.jpg,0,0,0
-150,150,Sea Devil,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/sea_devil.jpg,0,0,1
-151,151,Mouri,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/mouri.jpg,1,0,0
-152,152,Andinio,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/andinio.jpg,1,0,0
+150,150,Sea Devil,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/sea_devil.jpg,0,0,0
+151,151,Mouri,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/mouri.jpg,0,0,0
+152,152,Andinio,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/andinio.jpg,0,0,0
 153,153,Delph,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,images_resized/delph.jpg,0,0,0
 154,154,Owen Harper,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/owen_harper.jpg,0,0,0
-155,155,Toshiko Sato,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/toshiko_sato.jpg,1,0,0
+155,155,Toshiko Sato,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/toshiko_sato.jpg,0,0,0
 156,156,Rhys Williams,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/rhys_williams.jpg,0,0,0
-157,157,Weevil,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/weevil.jpg,0,1,0
-158,158,Bilis Manger,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/bilis_manger.jpg,0,0,2
+157,157,Weevil,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/weevil.jpg,0,0,0
+158,158,Bilis Manger,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/bilis_manger.jpg,0,0,0
 159,159,Diane Holmes,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/diane_holmes.jpg,0,0,0
 160,160,Lisa (Cyberwoman),FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/cyberwoman.jpg,0,0,0
-161,161,Sex Gas,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/sex_gas.jpg,0,0,1
+161,161,Sex Gas,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/sex_gas.jpg,0,0,0
 162,162,Fairy,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/fairy.jpg,0,0,0
 163,163,Jack Harkness (Original),FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/jack_harkness_original.jpg,0,0,0
-164,164,Abaddon,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/abaddon.jpg,0,0,1
+164,164,Abaddon,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/abaddon.jpg,0,0,0
 165,165,John Hart,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/john_hart.jpg,0,0,0
 166,166,Gray,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/gray.jpg,0,0,0
 167,167,Beth Halloran,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/beth_halloran.jpg,0,0,0
@@ -174,21 +174,21 @@
 172,172,John Frobisher,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/john_frobisher.jpg,0,0,0
 173,173,Clem McDonald,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/clem_mcdonald.jpg,0,0,0
 174,174,The 456,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/the_456.jpg,0,0,0
-175,175,Alice Carter,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/alice_carter.jpg,0,1,0
+175,175,Alice Carter,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/alice_carter.jpg,0,0,0
 176,176,Agent Johnson,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/agent_johnson.jpg,0,0,0
 177,177,Rex Matheson,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/rex_matheson.jpg,0,0,0
 178,178,Esther Drummond,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/esther_drummond.jpg,0,0,0
 179,179,Oswald Danes,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/oswald_danes.jpg,0,0,0
 180,180,Jilly Kitzenger,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/jilly.jpg,0,0,0
-181,181,Andy Davidson,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/andy_davidson.jpg,0,1,0
-182,182,Mary,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/mary.jpg,1,0,0
-183,183,Mrs. Wormwood,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,images_resized/wormwood.jpg,1,0,0
+181,181,Andy Davidson,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/andy_davidson.jpg,0,0,0
+182,182,Mary,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,images_resized/mary.jpg,0,0,0
+183,183,Mrs. Wormwood,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,images_resized/wormwood.jpg,0,0,0
 184,184,Alan Jackson,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,images_resized/alan_jackson.jpg,0,0,0
-185,185,Gorgon,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,images_resized/gorgon.jpg,0,0,1
+185,185,Gorgon,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,images_resized/gorgon.jpg,0,0,0
 186,186,Trickster,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,images_resized/trickster.jpg,0,0,0
-187,187,Pied Piper,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,images_resized/pied_piper.jpg,1,0,0
+187,187,Pied Piper,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,images_resized/pied_piper.jpg,0,0,0
 188,188,Peter Dalton,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,images_resized/peter_dalton.jpg,0,0,0
-189,189,Mona Lisa,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,images_resized/mona_lisa.jpg,0,0,1
+189,189,Mona Lisa,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,images_resized/mona_lisa.jpg,0,0,0
 190,190,Nightmare Man,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,images_resized/nightmare_man.jpg,0,0,0
 191,191,Androvax,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,images_resized/androvax.jpg,0,0,0
 192,192,Mister Dread,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,images_resized/mister_dread.jpg,0,0,0
@@ -196,4 +196,4 @@
 194,194,Dalek,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,images_resized/dalek.jpg,0,0,0
 195,195,Cyberman,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,images_resized/cyberman.jpg,0,0,0
 196,196,12th Doctor,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,images_resized\welfth_doctor.jpg,0,0,0
-197,197,Metacrisis Doctor,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/metacrisis.jpg,0,1,0
+197,197,Metacrisis Doctor,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,images_resized/metacrisis.jpg,0,0,0
